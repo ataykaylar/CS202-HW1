@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1594754217 source:c:\users\monster\desktop\cs202 hw1\cs202hw1\main.cpp
+	<iostream>
+	<time.h>
+	"sorting.h"
+	<cstdlib>
+
+1594753759 source:c:\users\monster\desktop\cs202 hw1\cs202hw1\sorting.cpp
+	"sorting.h"
+
+1594750653 c:\users\monster\desktop\cs202 hw1\cs202hw1\sorting.h
+
